@@ -1,2 +1,5 @@
-# js_puzzles2023
-Solutions for Jane Street's Puzzels of the Month
+# Jane Street's Puzzels of the Month
+I submit under the alias of *Neuro*.
+
+January, 2023 - Done
+
